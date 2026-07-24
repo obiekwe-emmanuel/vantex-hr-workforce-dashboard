@@ -65,7 +65,7 @@ sits in the middle age bracket
 3. Which city has the most staff?
 4. Is there gender balance across departments?
 5. What is the qualification profile of the workforce?
-   ![Workforce Overview](dashboard1.png)
+   ![Workforce Overview](Vantex_hr_workforce_dashboard1.png)
 
 **Performance and Compensation**
 
@@ -74,7 +74,7 @@ sits in the middle age bracket
 8. Which department pays the highest average salary?
 9. Do long-serving employees perform better?
 10. Which age group has the best performance ratings?
-   ![Performance and Compensation](dashboard2.png)
+   ![Performance and Compensation](Vantex_hr_workforce_dashboard2.png)
 
 ---
 
