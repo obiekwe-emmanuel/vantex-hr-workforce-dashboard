@@ -101,7 +101,7 @@ Average Salary, Average Years of Service, Excellent Performer Rate, and Poor Per
 
 | File | Description |
 |---|---|
-| [Vantex HR Dashboard (Download)](https://github.com/obiekwe-emmanuel/vantex-hr-workforce-dashboard/raw/main/VantexHR_Dashboard.xlsm) | Interactive Excel dashboard file |
+| [Vantex HR Dashboard (Download)](https://github.com/obiekwe-emmanuel/vantex-hr-workforce-dashboard/blob/main/Vantex-HR%20Project.xlsm) | Interactive Excel dashboard file |
 
 ---
 
