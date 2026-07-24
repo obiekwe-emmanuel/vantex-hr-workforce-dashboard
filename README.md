@@ -38,6 +38,7 @@ Abuja (192), and Kano (174), with no major geographic concentration risk
 indicating an urgent need for targeted male recruitment in that department
 - OND holders at 131 are significantly fewer than other qualification levels, suggesting 
 the organisation may be overlooking entry-level talent pipelines
+  ![Workforce Overview](Vantex_hr_workforce_dashboard1.png)
 
 **Performance and Compensation**
 
@@ -53,6 +54,7 @@ performance rather than better performance
 - Mid-career employees aged 31 to 45 record the highest Excellent count at 77, while 
 Young staff aged 18 to 30 score lowest across all categories. Peak performance clearly 
 sits in the middle age bracket
+ ![Performance and Compensation](Vantex_hr_workforce_dashboard2.png)
 
 ---
 
@@ -65,8 +67,7 @@ sits in the middle age bracket
 3. Which city has the most staff?
 4. Is there gender balance across departments?
 5. What is the qualification profile of the workforce?
-   ![Workforce Overview](Vantex_hr_workforce_dashboard1.png)
-
+ 
 **Performance and Compensation**
 
 6. What is the maximum salary by education level?
@@ -74,8 +75,7 @@ sits in the middle age bracket
 8. Which department pays the highest average salary?
 9. Do long-serving employees perform better?
 10. Which age group has the best performance ratings?
-   ![Performance and Compensation](Vantex_hr_workforce_dashboard2.png)
-
+  
 ---
 
 ## Dashboard Features
@@ -109,11 +109,11 @@ Average Salary, Average Years of Service, Excellent Performer Rate, and Poor Per
 
 **Dashboard 1 - Workforce Overview**
 
-![Workforce Overview](dashboard1.png)
+ ![Performance and Compensation](Vantex_hr_workforce_dashboard1.png)
 
 **Dashboard 2 - Performance and Compensation**
 
-![Performance and Compensation](dashboard2.png)
+ ![Performance and Compensation](Vantex_hr_workforce_dashboard2.png)
 
 ---
 
